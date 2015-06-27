@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/roberto/Projects/apitege/sample1",
+  "command": "/usr/bin/c++  /home/roberto/Projects/apitege/sample1/sample1.h -- -O1 -g -Wall -Wextra -Werror -o /home/roberto/Projects/apitege/sample1/sample1.o -c",
+  "file": "/home/roberto/Projects/apitege/sample1/sample1.h"
+}
+]
